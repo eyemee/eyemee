@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Imee!;Java+Developer+%7C+8%2B+Years+Experience;Flutter+%7C+React+%7C+Unity; Automation+and+AI+Integration+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Imee!;Java+Developer+%7C+8%2B+Years+Experience;Flutter+%7C+React+%7C+Unity;Automation+and+AI+Integration+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
